@@ -43,7 +43,3 @@ I work across the stack: React, Angular and TypeScript on the front, Node.js, se
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-## 📊 Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=LuisReinoso&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" height="160" alt="Luis Reinoso GitHub stats" />
