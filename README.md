@@ -17,3 +17,6 @@ I work across the stack in **React, Angular and TypeScript** on the frontend and
 #### 🛠️ Stack
 
 `React` · `Angular` · `Next.js` · `TypeScript` · `RxJS` · `NgRx` · `Node.js` · `Python` · `PostgreSQL` · `Supabase` · `LLMs / RAG` · `Ollama` · `llama.cpp` · `Jest` · `Cypress`
+
+<!-- profile -->
+
